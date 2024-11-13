@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+build/
+dist/
+.env
+.DS_Store
+
+# Backend (server)
+server/node_modules/
+server/.env
+
+# Frontend (client)
+client/node_modules/
+client/.env
